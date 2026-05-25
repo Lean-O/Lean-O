@@ -1,7 +1,5 @@
 # ¡Hola! 👋 Soy Leandro A Orozco
-
  ![image alt](https://github.com/Lean-O/Lean-O/blob/b5c26dcfa2725f59eede431cc6a006f8ce65ec58/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
-
 **Técnico Universitario en Programación | Docente IT | Entusiasta de la Ciberseguridad 🚀**
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador y educador apasionado por la tecnología, radicado en Puerto Deseado, Santa Cruz, Argentina. Disfruto tanto escribiendo código como compartiendo mis conocimientos con la próxima generación de profesionales. 
