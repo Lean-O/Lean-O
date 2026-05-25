@@ -4,7 +4,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador y educador apasionado por la tecnología, radicado en Puerto Deseado, Santa Cruz, Argentina. Disfruto tanto escribiendo código como compartiendo mis conocimientos con la próxima generación de profesionales. 
 
- ![image alt]( Aquí escriben el permalink de la imagen )
+ ![image alt](https://github.com/Lean-O/Lean-O/blob/b5c26dcfa2725f59eede431cc6a006f8ce65ec58/Dise%C3%B1o%20sin%20t%C3%ADtulo.png) )
 
 Actualmente, equilibro mi tiempo entre el desarrollo de software, la enseñanza y mi formación en ciberdefensa.
 
