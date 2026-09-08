@@ -1,4 +1,4 @@
-## Data lab notebook
+## Lean O
 
 <div align="center">
 
