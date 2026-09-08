@@ -1,49 +1,68 @@
-# ¡Hola! 👋 Soy Leandro A Orozco
- ![image alt](https://github.com/Lean-O/Lean-O/blob/b5c26dcfa2725f59eede431cc6a006f8ce65ec58/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
-**Técnico Universitario en Programación | Docente IT | Entusiasta de la Ciberseguridad 🚀**
+## Data lab notebook
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador y educador apasionado por la tecnología, radicado en Puerto Deseado, Santa Cruz, Argentina. Disfruto tanto escribiendo código como compartiendo mis conocimientos con la próxima generación de profesionales. 
-Actualmente, equilibro mi tiempo entre el desarrollo de software, la enseñanza y mi formación en ciberdefensa.
+<div align="center">
 
----
+# Leandro Orozco
 
-### 👨‍💻 Sobre mí
+> Frontend or full-stack engineer
 
-*   🎓 **Estudiando:** Licenciatura en Ciberdefensa (UNDEF).
-*   👨‍🏫 **Educación:** Docente de Informática en la Escuela Industrial N°3 y la Universidad ISALUD. Creo firmemente en la innovación educativa (EdTech) y la integración de tecnologías como la Realidad Virtual en el aula.
-*   🛡️ **Intereses principales:** Ciberseguridad, informática forense, hacking ético y defensa de redes.
-*   🛠️ **Proyectos:** Impulsando iniciativas de soporte y diseño técnico a través de proyectos como *Tecnofix* y *MyG Electrónica*.
-*   ⚡ **Dato curioso:** Cuando no estoy codeando o armando hardware, probablemente esté viendo la Fórmula 1 (¡apoyando a Colapinto!) o pasando tiempo con mis perros, Teo, Olivia y Luppe 🐾.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=lean-o&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F206122607%3Fu%3De9b7e7bc3add04bf690f870dc167a7177082db47%26v%3D4" alt="lean-o hero visual" />
+</p>
 
----
+</div>
 
-### 💻 Stack Tecnológico y Herramientas
+## Evidence
 
-**Desarrollo y Programación:**
-*   **Lenguajes:** Python 🐍, Java ☕, JavaScript ⚡
-*   **Frameworks y Web:** Vue.js 🖖
-*   **Bases de Datos:** PostgreSQL 🐘
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=lean-o&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F206122607%3Fu%3De9b7e7bc3add04bf690f870dc167a7177082db47%26v%3D4" alt="lean-o stats visual" />
+</p>
 
-**Ciberseguridad y Sistemas:**
-*   **Informática Forense:** Autopsy, FTK Imager 🔍
-*   **Infraestructura:** Virtualización de Servidores, Redes 🌐
-*   **Hardware:** Armado de PCs, Troubleshooting avanzado, Mantenimiento ⚙️
+<p><code>197 contributions</code> · <code>1 day streak</code></p>
 
----
+## Methods and tools
 
-### 🌱 Actualmente trabajando en...
+- **Python** · 46%
+- **Vue** · 31%
+- **Java** · 13%
+- **HTML** · 5%
+- **CSS** · 4%
+- **JavaScript** · 2%
+- **Dockerfile** · 0%
+- **RenderScript** · 0%
 
-*   Desarrollo de proyectos EdTech y sistemas de gamificación para estudiantes.
-*   Investigación y diseño de un "Cyber-Polygon" en Realidad Virtual para el entrenamiento en informática forense.
-*   Mejora continua de mis entornos de desarrollo y laboratorios de pruebas (¡siempre trasteando con hardware y drivers!).
+## Research notes
 
----
+<details open>
+<summary><b>profile.manifest</b></summary>
 
-### 📫 Cómo contactarme
+```yaml
+name: Leandro Orozco
+focus: public experiments
+languages: [Python, Vue, Java, HTML, CSS]
+repositories: 17
+```
 
-*   **LinkedIn:
-*   **Email: orozcolean@gmail.com / orozcolean.educ@gmail.com
-*   **Portfolio / Web: https://orozcoleandro.netlify.app/
-                       https://lglsolutions.netlify.app
----
-⭐️ *De Leandro para la comunidad open-source.*
+</details>
+
+## Experiments
+
+- **[Lean-O](https://github.com/Lean-O/Lean-O)** — Featured public work · ⭐ 1
+
+## Findings
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=lean-o&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F206122607%3Fu%3De9b7e7bc3add04bf690f870dc167a7177082db47%26v%3D4" alt="lean-o highlights visual" />
+</p>
+
+<p><b>Leandro Orozco</b> is shipping 17 public projects with 16 stars of proof.</p>
+
+## Compare notes
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=lean-o&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F206122607%3Fu%3De9b7e7bc3add04bf690f870dc167a7177082db47%26v%3D4" alt="lean-o social visual" />
+</p>
+
+<a href="https://github.com/lean-o">GitHub</a>
+
+<p align="center"><sub>Leandro Orozco · Data profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
