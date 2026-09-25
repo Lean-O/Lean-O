@@ -4,7 +4,7 @@
 
 # Leandro Orozco
 
-> Frontend or full-stack engineer
+>Tecnico Universitario en Programacion / Frontend or full-stack engineer / Auxiliar Tecnico en Ciberdefenza
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=lean-o&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F206122607%3Fu%3De9b7e7bc3add04bf690f870dc167a7177082db47%26v%3D4" alt="lean-o hero visual" />
